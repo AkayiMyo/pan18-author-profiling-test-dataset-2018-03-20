@@ -167,6 +167,23 @@ def write_xml(src_text: str, translated_docs: list[str]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def clean_pronouns(text: str) -> str:
+    text = text.replace("ကျွန်တော်တို့", "ငါတို့")
+    text = text.replace("ကျွန်မတို့", "ငါတို့")
+    text = text.replace("ကျွန်တော့်ရဲ့", "ငါ့")
+    text = text.replace("ကျွန်မရဲ့", "ငါ့")
+    text = text.replace("ကျွန်တော့်", "ငါ့")
+    text = text.replace("ကျွန်တော်", "ငါ")
+    text = text.replace("ကျွန်မ", "ငါ")
+    text = text.replace("ကျွန်ုပ်", "ငါ")
+    text = text.replace("သင်သည်", "မင်းသည်")
+    text = text.replace("သင့်ကို", "မင်းကို")
+    text = text.replace("သင့်ရဲ့", "မင်းရဲ့")
+    text = text.replace("သင့်", "မင်း")
+    text = text.replace("သင် ", "မင်း ")
+    return text
+
+
 def process_file(src_path: Path, dst_path: Path, retry_wait: float, backend: str) -> None:
     src_text = src_path.read_text(encoding="utf-8")
     docs = DOC_RE.findall(src_text)
@@ -190,6 +207,7 @@ def process_file(src_path: Path, dst_path: Path, retry_wait: float, backend: str
         except Exception:
             translated_docs = translate_local_docs(cleaned)
 
+    translated_docs = [clean_pronouns(doc) for doc in translated_docs]
     dst_path.parent.mkdir(parents=True, exist_ok=True)
     dst_path.write_text(write_xml(src_text, translated_docs), encoding="utf-8")
 

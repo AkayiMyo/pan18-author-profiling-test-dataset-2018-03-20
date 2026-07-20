@@ -1,0 +1,104 @@
+<author lang="my">
+	<documents>
+		<document><![CDATA[@cprieto ဝိုး၊ SQL Server Docker image က မကြာသေးခင်ကပဲ သေးသွားတယ်ဗျာ။]]></document>
+		<document><![CDATA[@Plantronics ငါ့မှာ USB connector နဲ့ 615M single-ear headset နဲ့ mic အဟောင်းလေးတစ်ခုရှိတယ်။ ဘယ်လက်ရှိ model က အတိုက်ရိုက်ဆုံး အစားထိုးလဲ။]]></document>
+		<document><![CDATA[ဒီည #altnetsyd မှာ techie ကနေ manager ကို ဘေးတိုက်ပြောင်းရွှေ့တာနဲ့ပတ်သက်ပြီး @web_goddess ရဲ့ ထိုးထွင်းသိမြင်မှုတွေကို အရမ်းသဘောကျခဲ့တယ်။]]></document>
+		<document><![CDATA[ဒီည #altnetsyd မှာ build automation အတွက် Docker ကို အသုံးပြုတာနဲ့ပတ်သက်ပြီး @sir_tilbrook က ကောင်းတဲ့စကားတွေ ဖြန့်ဝေနေတာကို မြင်ရတာ ကောင်းတယ်။]]></document>
+		<document><![CDATA[@FOXTEL_Help ဟုတ်တယ်၊ အရာအားလုံးက ငါ့နာမည်နဲ့ပဲရှိတယ်။ (ငါ့ Twitter bio နဲ့ အတူတူပဲ) အကောင့်မှာ တခြားလူတွေ မရှိဘူး။]]></document>
+		<document><![CDATA[@FOXTEL_Help ငါ့ Foxtel အကောင့်နံပါတ်နဲ့ တပ်ဆင်မယ့်ရက်ချိန်းကို ရခဲ့တယ်။ ဒါပေမယ့် ငါ့အချက်အလက်တွေကို မမှန်ကန်ဘူးလို့ ငြင်းပယ်တယ်။]]></document>
+		<document><![CDATA[@telstra ကနေ အီးမေးလ်က "တပ်ဆင်ခြင်းမပြုမီ @foxtel Go ကို အခုပဲ ကြည့်ပါ" လို့ ပြောတယ်။ ဒါပေမယ့် rego က မအောင်မြင်ဘူး၊ ပြီးတော့ tech-supt က activate လုပ်ဖို့ တပ်ဆင်ပြီးတဲ့အထိ စောင့်ခိုင်းတယ်။ :(]]></document>
+		<document><![CDATA[@StanAustralia ကိစ္စမရှိပါဘူး။ Fargo Season 1 ကို @NetflixANZ မှာ ရှာတွေ့ခဲ့ပြီ။]]></document>
+		<document><![CDATA[@StanAustralia ငါ မနေ့က Fargo Season 1 ကို ကြည့်နေခဲ့တာ။ ဒါပေမယ့် ဒီနေ့ကျတော့ Season 2 ပဲ ရနိုင်တော့တယ်။ ငါ့မှာ ၄ ပိုင်း ကျန်သေးတယ်။ ဘာဖြစ်သွားတာလဲ။]]></document>
+		<document><![CDATA[2017 မှာ Visual Voicemail ကို စတင်မိတ်ဆက်ခဲ့တာ ဆယ်စုနှစ်တစ်ခုကြာပြီးနောက်မှာတောင် telco တစ်ခုက ဒါကို သူတို့ ထောက်ပံ့ပေးမလားဆိုတာ သေချာမသိသေးဘူး။]]></document>
+		<document><![CDATA[@paulstovell @slace ကောင်းတယ်ဗျာ။]]></document>
+		<document><![CDATA[@slace ငါ့ကို ဖြတ်တာလား။ /cc @paulstovell]]></document>
+		<document><![CDATA[@robdmoore နောက်မှ အသေးစိတ်အချက်အလက်တွေ ပိုပြီး မျှဝေနိုင်မယ်လို့ မျှော်လင့်ပါတယ်။]]></document>
+		<document><![CDATA[@mattiasgeniar Varnish Cache က သီးခြား TLS implementation တစ်ခုနဲ့ ရှင်းရှင်းလင်းလင်း ခွဲထုတ်ထားတယ်။ ဒါက DB တွေအတွက်လည်း အလားတူ ပုံစံတစ်ခု ပေါ်ပေါက်လာတာလား။]]></document>
+		<document><![CDATA[@yow_conf Youtube ပေါ်က 2016 playlist မှာ ဗီဒီယိုအများစုကို ပြီးခဲ့တဲ့ ၃ ပတ်လုံး private လုပ်ထားတယ်။ public ဖြစ်ဖို့ ခန့်မှန်းခြေအချိန် ဘယ်လောက်လဲ။]]></document>
+		<document><![CDATA[@fearthecowboy ငါ့ Lenovo P50 မှာလည်း အတူတူပဲ ဖြစ်တယ်။ သီးခြားခွဲထုတ်နိုင်သေးတာတော့ မဟုတ်ဘူး၊ ဒါပေမယ့် kernel, drivers, ဒါမှမဟုတ် interrupts တွေကြောင့် ဖြစ်နိုင်တယ်။ ငါ့ရဲ့ debug အားသာချက်တော့ မဟုတ်ဘူး။]]></document>
+		<document><![CDATA[ဒီ top 50 စာရင်းမှာ @hacks4pancakes, @jessysaurusrex, နဲ့ @laparisa တို့ကို မြင်ရတာ ကောင်းတယ်။ သူတို့က ဒါကို သေချာပေါက် ရထိုက်တယ်။]]></document>
+		<document><![CDATA[@patrickdebois လုပ်ငန်းချိန်အတွင်းမှာ ကုမ္ပဏီလိုအပ်တာကို ငါလုပ်တယ်။ အချိန်ပြင်ပမှာတော့ ငါစိတ်ဝင်စားတာကို လုပ်တယ်။ တစ်ခါတလေတော့ ထပ်နေတာမျိုး ရှိတယ်။]]></document>
+		<document><![CDATA[ဘာသာစကားနှစ်မျိုးသုံး pun တွေက ငါ့အကြိုက်ဆုံး ဖြစ်နိုင်တယ်။]]></document>
+		<document><![CDATA[@DavidRGardiner ငါက ကုမ္ပဏီရဲ့ PPTP VPN ကို 2012 လောက်မှာ SSTP နဲ့ အစားထိုးခဲ့တယ်။ NAT devices တွေ အများကြီးက GRE မှာ ပြဿနာတက်လို့။ auth ကလည်း အားနည်းတယ်။ မင်း ကံကောင်းပါစေ။]]></document>
+		<document><![CDATA[ငါမေးတာက ငါက website တစ်ခုရဲ့ password reset workflow ကို ကြုံတွေ့ခဲ့ရလို့ ငါ့မျှော်လင့်ချက်တွေနဲ့ မတူလို့ပဲ။]]></document>
+		<document><![CDATA[မင်းရဲ့ account မှာ 2FA ကို configure လုပ်ထားတဲ့အခါ website password reset workflow က ဘယ်လို ဆက်လုပ်သင့်လဲ။]]></document>
+		<document><![CDATA[@FOXTEL_Help ငါက Presto အသုံးပြုသူဟောင်းတစ်ယောက်ဖြစ်ပြီး Foxtel Play အတွက် စာရင်းသွင်းနေတာ။ ငါ့ကို ပို့ပေးထားတဲ့ PRESTO2PLAY promo code ကို သုံးပြီး။ ဒါပေမယ့် နောက်ဆုံးအဆင့်က ဒါကို ငြင်းပယ်တယ်။]]></document>
+		<document><![CDATA[ssh login တစ်ခုစီကို သူ့ကိုယ်ပိုင် container ထဲမှာ သီးခြား shell တစ်ခု ပေးဖို့ အကြံပြုချက်တွေ ရှိလား။ အခုထိတော့ ဒါပဲ ရှာတွေ့သေးတယ်။]]></document>
+		<document><![CDATA[@StanAustralia မင်းရဲ့ closed captions နဲ့ပတ်သက်တဲ့ အကူအညီဆောင်းပါးမှာ ပုံတွေက load မဖြစ်ဘူး။]]></document>
+		<document><![CDATA[မင်းရဲ့ laptop က standby mode ထဲကို မဝင်တဲ့အခါ ဘာကြောင့်လဲဆိုတာ မင်းမသိတဲ့အခါ။]]></document>
+		<document><![CDATA[CloudFormation က ပုံပျက်နေတဲ့ template တစ်ခုကို validate-template နဲ့ create-change-set ကို ဖြတ်သန်းခွင့်ပြုပြီး execute လုပ်တဲ့အခါကျမှ မအောင်မြင်တာက စိတ်ပျက်စရာပဲ။]]></document>
+		<document><![CDATA[open source project တွေမှာ copyright comment တွေအားလုံးမှာ နှစ်ကို update လုပ်ဖို့သက်သက်ပဲ commit တွေ မြင်ရတာ။ ဒါက ဘာလို့ ဖြစ်နေရတာလဲ။ :(]]></document>
+		<document><![CDATA[မင်းရဲ့ Windows 10 Build 15002 မှာ Virtualbox က စတင်ချိန်မှာ crash ဖြစ်ရင် Virtualbox ရဲ့ နောက်ဆုံး test builds တွေကို စမ်းကြည့်ပါ။]]></document>
+		<document><![CDATA[app feature အသစ်တွေအတွက် push notification တွေကို ပိတ်တာက unsubscribe အသစ်ပဲ။]]></document>
+		<document><![CDATA[@mjolinor ပြီးတော့ ငါထင်တာက cellular network တွေက မင်းရဲ့ land line လိုမျိုး pure data conduits တွေ ဖြစ်လာလိမ့်မယ်။ telco တွေရဲ့ ပိုပြီး အကျိုးအမြတ်များတဲ့ ဝန်ဆောင်မှုတွေကို တိုက်စားပစ်လိမ့်မယ်။]]></document>
+		<document><![CDATA[@mjolinor ငါ့မှာ အနည်းဆုံး ၅ နှစ်လောက် land line မရှိတော့ဘူး။ မင်းရဲ့ သူငယ်ချင်းတွေနဲ့ မိသားစုက လူတစ်ယောက်နဲ့ စကားပြောတာထက် နေရာတစ်ခုနဲ့ စကားပြောတာကို ပိုကြိုက်လား။]]></document>
+		<document><![CDATA[voice နဲ့ video chat app တွေရဲ့ လူကြိုက်များမှု တိုးလာတာနဲ့အမျှ ငါထင်တာက telco တွေက mobile call တွေနဲ့ SMS တွေက land line လိုမျိုး ဖြစ်သွားမှာကို စိုးရိမ်နေကြတယ်။]]></document>
+		<document><![CDATA[@paulstovell Trello နဲ့ Slack ကို နေ့စဉ် summary post တွေ ပေါင်းစပ်ထားတာ။]]></document>
+		<document><![CDATA[AWS Spot Instance တစ်ခုက ၄ လကျော်ကြာအောင် မရပ်မနား လည်ပတ်နေခဲ့ပြီး On Demand price ထက် ၈၂% ပိုသက်သာခဲ့တယ်ဆိုတာ မင်းရှာတွေ့တဲ့အခါ။]]></document>
+		<document><![CDATA[ရှာတွေ့ခဲ့တယ်၊ ဒါပေမယ့် စာရင်းသွင်းဖို့ SMS ခွင့်ပြုချက် ခဏတာ လိုအပ်နေသေးတယ်။ verification code တွေ ရိုက်ထည့်ခွင့် မပြုခဲ့ဘူး။]]></document>
+		<document><![CDATA[အမ်... မဟုတ်ဘူး။ ငါမှားနေတယ်လို့ ပြောပေးပါဦး။ #AndroidNoob #LeastPrivilege]]></document>
+		<document><![CDATA[Docker က /var/run/docker/netns/ အောက်မှာ ဖန်တီးတဲ့ 12-hex-character filename တွေရဲ့ အဓိပ္ပာယ်/ရင်းမြစ်ကို ဘယ်သူမဆို ရှင်းပြပေးနိုင်မလား။ #lazyweb]]></document>
+		<document><![CDATA[@slace inheritance ထက် composition ကို ပိုဦးစားပေးတာ။]]></document>
+		<document><![CDATA[အကောင်းမြင်တဲ့ developer တစ်ယောက်အနေနဲ့ ကိုယ်တိုင် solution တစ်ခုကို တည်ဆောက်တဲ့ ကုန်ကျစရိတ်ကို ဝယ်ယူတာနဲ့ နှိုင်းယှဉ်ရင် လျှော့တွက်မိဖို့ လွယ်ကူတယ်။]]></document>
+		<document><![CDATA[@PawelPabich "sensitive" page တွေမှာပဲ HTTPS ကို သုံးပြီး ကျန်တာအားလုံးအတွက် ဒါကနေ လမ်းကြောင်းပြောင်းတဲ့ site/framework တွေရဲ့ အမွေအနှစ်တွေ ရှိတယ်။]]></document>
+		<document><![CDATA[2017 ရောက်ပြီ၊ site တွေက HTTPS ကနေ HTTP ကို ပြန် redirect လုပ်တာကို ရပ်လို့ရပြီလား။ 🤦‍♂️]]></document>
+		<document><![CDATA[conference swag bag ထဲက vendor တစ်ယောက်ဆီကနေ USB drive တစ်ခု ရခဲ့တယ်။ ငါ ဒါကို ထိုးထည့်ရမလား။]]></document>
+		<document><![CDATA[ငါက Tesla က charging ပြီးသွားရင် သူ့ဘာသာသူ ပလပ်ဖြုတ်ပြီး တခြားနေရာမှာ ပြန်ရပ်တာကို စောင့်နေတယ်။]]></document>
+		<document><![CDATA[နောက်ဆုံးတော့ ATM ကနေ ပိုက်ဆံထုတ်ဖို့ Cardless Cash ကို စမ်းကြည့်ခဲ့တယ်။ one-time code တွေက ငါ့ card နဲ့ PIN ကို သုံးတာထက် ပိုလုံခြုံတယ်လို့ ခံစားရတယ်။]]></document>
+		<document><![CDATA[@GrahamDumpleton kubectl နဲ့ docker နဲ့ ပျော်နေတာလား။]]></document>
+		<document><![CDATA[@troyhunt BSOD က အခု primary screen မှာပဲ ပြနေပုံရတယ်။ QR code မှာ တကယ့် error နံပါတ် ဒါမှမဟုတ် အသေးစိတ်အချက်အလက်တွေ မပါတာက ရှက်စရာပဲ။]]></document>
+		<document><![CDATA[@GoToMeeting ဒီလို မြန်ဆန်ပြီး အထောက်အကူဖြစ်တဲ့ တုံ့ပြန်မှုအတွက် ကျေးဇူးတင်ပါတယ်။]]></document>
+		<document><![CDATA[@GoToMeeting WebApp က Chrome 56 မှာ wss://mcs52-1-isp*.atl.expertcity.com/websocket မှာ insecure HTTPS ကြောင့် မအောင်မြင်ဘူး။]]></document>
+		<document><![CDATA[Windows Phone မှာ app gap ရှိနိုင်ပေမယ့် အနည်းဆုံးတော့ ငါက ပို့စ်သုံးခုတိုင်းမှာ "hide ad" ဒါမှမဟုတ် "less like this" ကို နှိပ်စရာ မလိုခဲ့ဘူး။]]></document>
+		<document><![CDATA[@Optus တိတိကျကျပဲ။ ငါက smartphone device တစ်ခုကို ကန့်သတ်ထားတဲ့ wireless-broadband-only mode မှာ data-only-SIM ဈေးနှုန်းတွေနဲ့ လည်ပတ်ချင်တယ်။ Device != service]]></document>
+		<document><![CDATA[G4 Play ရဲ့ Snapdragon 410 မှာ scrolling က ဘယ်လောက်ချောမွေ့လဲဆိုတာ အထင်ကြီးမိတယ်။ app အများအပြားအတွက် Lumia 950 XL ရဲ့ 810 မှာရှိတဲ့ jankiness နဲ့ နှိုင်းယှဉ်ရင်။]]></document>
+		<document><![CDATA[@GeoffreyHuntley @slace လူကြိုက်များတဲ့ app အချို့မှာ platform တွေတစ်လျှောက် feature parity မရှိဘူး။ Xamarin နဲ့ မတည်ဆောက်ထားသလိုပဲ။]]></document>
+		<document><![CDATA[@slace Android ကို စတင်အသုံးပြုဖို့ Pixel ရဲ့ ဈေးနှုန်းကို တရားမျှတအောင် မလုပ်နိုင်ခဲ့ဘူး။ နောက်ပိုင်းမှာတော့ ကောင်းတဲ့ရွေးချယ်မှုတစ်ခု ဖြစ်နိုင်ပါတယ်။]]></document>
+		<document><![CDATA[Android ကို စမ်းသုံးဖို့ Moto G4 Play တစ်လုံး ဝယ်ခဲ့တယ်။ အခုထိတော့ ကောင်းတဲ့အတွေ့အကြုံပဲ။ Marshmallow မှာ phone encryption က default အစား opt-in ဖြစ်နေတာ အံ့သြမိတယ်။]]></document>
+		<document><![CDATA[Amaysim ကတော့ အခုထိ ဖုန်းထဲမှာ data-only prepaid SIM နဲ့ ကောင်းကောင်း အလုပ်လုပ်နေတယ်။ ပြီးတော့ ဒါက network infrastructure အတူတူပဲ။]]></document>
+		<document><![CDATA[Optus က ဖုန်းထဲမှာ သုံးဖို့ data-only SIM ကို ရောင်းဖို့ ငြင်းဆန်တယ်ဆိုတာ ဒီနေ့မှ သိရတယ်။ voice SIM တွေကို ပိုမြင့်တဲ့ data ဈေးနှုန်းတွေနဲ့ပဲ ရောင်းတယ်။ Data SIM တွေက ဖုန်းထဲမှာ deactivate ဖြစ်သွားတယ်။]]></document>
+		<document><![CDATA[#yow16 ကို တက်ရောက်ခွင့်ရတဲ့အတွက် ကျေးဇူးတင်တယ်။ ကောင်းမွန်တဲ့ conference တစ်ခုကို စီစဉ်ပေးတဲ့ @yow_oz team ကို ကျေးဇူးတင်ပါတယ်။ #yow17 ကို မျှော်လင့်နေပါတယ်။]]></document>
+		<document><![CDATA[#yow16 Sydney မှာ @ghohpe နဲ့အတူ resilience ရဲ့ အရေးကြီးတဲ့ အကြောင်းအရာကို ဆက်လက်လုပ်ဆောင်နေတယ်။ Synchronous != Resilient.]]></document>
+		<document><![CDATA[ငါ့ရဲ့ နောက်ထပ် web app အတွက် @elmlang ကို စမ်းကြည့်ဖို့ အရမ်းစိတ်ဝင်စားတယ်။ @jessitron ရဲ့ #yow16 talk ကြောင့်။]]></document>
+		<document><![CDATA[#yow16 မှာ incremental automation adoption နဲ့ပတ်သက်ပြီး @SeanChittenden ရဲ့ ကောင်းမွန်တဲ့ ဟောပြောချက်။ ပရိသတ်အများအပြားက @HashiCorp tools တွေကို ရင်းနှီးကြတယ်။]]></document>
+		<document><![CDATA[#yow16 Sydney Day 2 keynote ကို @rebeccaparsons က ဟောပြောတာကို ကြိုက်နေတယ်။ ငါ့အကြိုက်ဆုံး စာအုပ်တွေထဲက တစ်အုပ်ရဲ့ အရေးပါပုံကို ထောက်ပြနေတယ်။]]></document>
+		<document><![CDATA[@modocache Sublime, PowerShell or Cygwin, Gmail in browser]]></document>
+		<document><![CDATA[#yow16 Sydney ကို တက်ရောက်နေရင်း အဖြစ်အပျက်တစ်ခုကို တုံ့ပြန်နေတယ်။ #oncallselfie /cc @alicegoldfuss]]></document>
+		<document><![CDATA[distributed system ရွှေတွေ ထပ်ရတယ်။ ဒီတစ်ခါတော့ #yow16 Sydney မှာ @caitie ဆီကနေ။]]></document>
+		<document><![CDATA[@randommood ရဲ့ #yow16 Sydney ဟောပြောချက်အတွက် ရှေ့ဆုံးနဲ့ အလယ်မှာ။ Resilient Distributed Systems နဲ့ပတ်သက်ပြီး။]]></document>
+		<document><![CDATA[@thechargebar မင်းရဲ့ station တွေမှာ USB Type C connector တွေ လိုအပ်တယ်။ Australian Technology Park Conference Centre မှာ။]]></document>
+		<document><![CDATA[@yow_oz Sydney ရဲ့ ကောင်းမွန်တဲ့ catering အတွက် ချီးကျူးပါတယ်။]]></document>
+		<document><![CDATA[#yow16 Sydney မှာ @IanDCrosby က Docker နဲ့ Golang အားလုံးကို မြှင့်တင်နေတာကို ကြိုက်နေတယ်။]]></document>
+		<document><![CDATA[#yow16 Sydney ကို ဖွင့်လှစ်ဖို့ @unclebobmartin ရဲ့ ကောင်းမွန်တဲ့ ဟောပြောချက်။ ကြောက်စရာလည်းကောင်းတယ်၊ စိတ်ဓာတ်တက်ကြွစရာလည်းကောင်းတယ်။]]></document>
+		<document><![CDATA[စပြီ! @yow_oz #yow16 Sydney.]]></document>
+		<document><![CDATA[@velocityconf Santa Clara က တက်ရောက်သူတွေအတွက် laptop အားပြန်သွင်းတဲ့ အဆောက်အအုံတွေ အကောင်းဆုံး ရရှိနိုင်မှုအတွက် စံချိန်တင်ထားဆဲ ဖြစ်ပုံရတယ်။]]></document>
+		<document><![CDATA[@alicegoldfuss ကောင်းတဲ့ ဆောင်းပါးပဲ။ မျှဝေပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်။]]></document>
+		<document><![CDATA[အဆင့် ၁: mirror ကို locally install လုပ်ပါ။ ဒါဆို... အနီးအနားက AWS/Azure region မှာလား။]]></document>
+		<document><![CDATA[ငါ online store ဆောက်ပေးခဲ့တဲ့ ပထမဆုံး ကုမ္ပဏီက လက်ရှိ stock မရှိတဲ့ ပစ္စည်းတွေအတွက် (back) order တွေကို လက်ခံခဲ့တယ်။ တခြားဆိုင်တွေက မလုပ်တဲ့အခါ ငါနားမလည်နိုင်အောင် ဖြစ်မိတယ်။]]></document>
+		<document><![CDATA[Boulder, Colorado မှာရှိတဲ့ @sectionio ကို ကြီးထွားအောင် ကူညီပေးမယ့်သူတွေကို ငါတို့ ရှာနေတယ်။]]></document>
+		<document><![CDATA[အံ့မခန်းပဲ! @alt_net ကြောင့် @yow_oz Sydney #yow16 ကို ငါသွားမယ်။ အဲဒီမှာ မင်းကို တွေ့ရဖို့ မျှော်လင့်ပါတယ်။]]></document>
+		<document><![CDATA[အခုတော့ fix က master မှာ ရောက်နေပြီ! မကြာခင် nginx 1.11.7 မှာ ထွက်လာလိမ့်မယ်လို့ မျှော်လင့်ပါတယ်။]]></document>
+		<document><![CDATA[@robdmoore ငါ့ရဲ့ 2fa generator တွေကို ငါ့ဖုန်းနဲ့ တခြား backup device တစ်ခုမှာ ကြိုတင် configure လုပ်ထားဖို့ ငါကြိုးစားတယ်။ ဒီအခြေအနေအတွက်ပဲ။]]></document>
+		<document><![CDATA[ဒီနေ့ #elasticon Sydney မှာ @elastic ကလူတွေနဲ့ အခြားအသုံးပြုသူတွေနဲ့ စကားပြောရတာ ပျော်တယ်။ Elastic Stack 5.0 ကို Production မှာ သုံးဖို့ စိတ်အားထက်သန်နေတယ်။]]></document>
+		<document><![CDATA[@burgomg မသေချာဘူး၊ ဒါပေမယ့် spec-correct ဆိုတာရှိတယ်၊ ပြီးတော့ incumbent ISP implementation-correct နဲ့ interoperable ဖြစ်တာလည်း ရှိတယ်။]]></document>
+		<document><![CDATA[Alpine ရဲ့ musl-libc က glibc နဲ့ မတူဘူးဆိုတာ ဒီနေ့မှ သိရတယ်။ DNS server က မသိတဲ့နာမည်တွေအတွက် NXDOMAIN အစား NOERROR ကို ပို့တဲ့အခါ။]]></document>
+		<document><![CDATA["TLS" ကို 2016 မှာ "SSL" လို့ ပြန်ပြောင်းခဲ့တယ်။ 90 ပြည့်လွန်နှစ်တွေမှာ အစားထိုးခံခဲ့ရပေမယ့်။ ဒါကြောင့် ငါတို့မှာ ကောင်းတဲ့အရာတွေ မရှိနိုင်တာ။ :(]]></document>
+		<document><![CDATA[@FitbitSupport Live Chat နဲ့ အံ့သြစရာကောင်းတဲ့ အတွေ့အကြုံတစ်ခု ရခဲ့တယ်။ ငါ့ Fitbit Alta မှာ ပျက်စီးနေတဲ့ လက်ပတ်ကို အစားထိုးဖို့။]]></document>
+		<document><![CDATA[အထူးသဖြင့် worker တွေကို ရပ်တန့်တာကို ပိတ်ထားတယ်။ Docker container ထဲမှာ debug log တွေရဲ့ နမူနာအနည်းငယ်ကို ငါလိုချင်တဲ့နေရာမှာ။]]></document>
+		<document><![CDATA[socket တွေ မပိတ်ဘဲ nginx-debug binary ကို swap-in လုပ်ချင်ခဲ့တယ်။ ဒါပေမယ့် daemonized မလုပ်ထားရင် အဲဒီ feature ကို ပိတ်ထားတယ်။ :(]]></document>
+		<document><![CDATA[ငါ့ရဲ့ နောက်ဆုံး ၂၄ နာရီ: 8kB ကျော် POST တွေမှာ HTTP/2 request body တွေရဲ့ 32B ပျက်စီးနေတဲ့နေရာမှာ @nginxorg ရဲ့ နားမလည်နိုင်တဲ့ bug တစ်ခုကို သီးခြားခွဲထုတ်နေတယ်။]]></document>
+		<document><![CDATA[@Netflixhelps Netflix Australia မှာ ခရစ္စမတ်ရုပ်ရှင်တွေ (ဥပမာ Die Hard :P) သက်သက်ပါတဲ့ category တစ်ခု မကြာခင် ပေါ်လာမယ်လို့ မျှော်လင့်နိုင်မလား။]]></document>
+		<document><![CDATA[ဒီနေ့ ငါရှာဖွေတွေ့ရှိခဲ့တာက Google Search နဲ့ Chromium source ကို ရှာဖွေတာက ငါမျှော်လင့်ထားတာထက် အများကြီး ပိုခက်ခဲတယ်။]]></document>
+		<document><![CDATA[Chrome က HTTP/2 request body တွေကို 2852-byte frame တွေနဲ့ ပို့တယ်ဆိုတာ ဒီနေ့မှ သိရတယ်။ ဘာလို့လဲဆိုတော့ ဒါက ~ 2 * Maximum Segment Size - Frame Header ဖြစ်လို့ပဲ။]]></document>
+		<document><![CDATA[@LastPassHelp Secure Note ဒါမှမဟုတ် Site တစ်ခုကို ငါဘာလို့ မျှဝေနိုင်တာလဲ၊ ဒါပေမယ့် Form Fill Profile ကို ဘာလို့ မျှဝေလို့မရတာလဲ။]]></document>
+		<document><![CDATA[@jessfraz lemur တွေကို သေချာကြည့်ဖို့ မမေ့နဲ့။]]></document>
+		<document><![CDATA[@developerjack ဒါက လုပ်ငန်းခွင်မှာ ငါသည်းမခံနိုင်တဲ့ အပြုအမူဆိုရင် Twitter မှာလည်း ငါသည်းမခံဘူး။ သူတို့ရဲ့ skill တွေ ဘယ်လောက်ပဲ ကောင်းကောင်း။]]></document>
+		<document><![CDATA[@Bose_Australia မင်းရဲ့ US online store က QC3 replacement ear cushion တွေကို ရောင်းပေမယ့် AU ကို မပို့ဘူး။ မင်းရဲ့ AU site မှာ ဒါတွေကို စာရင်းမတင်ထားဘူး။ ကူညီပါ!]]></document>
+		<document><![CDATA[@Telerik Fiddler 4.6.3 က မကြာသေးခင်က ထွက်ရှိခဲ့တယ်။ ဒါပေမယ့် ငါ release note တွေကို ရှာမတွေ့ဘူး။]]></document>
+		<document><![CDATA[ပြီးခဲ့တဲ့ ၃ ပတ်အတွင်း time zone ၄ ခုကို ဖြတ်သန်းသွားလာခဲ့တယ်။ sync လုပ်တိုင်း ငါ့ @fitbit steps တွေ ပျောက်သွားတယ်။ အခုတော့ ဒါက လူသိများတဲ့ ပြဿနာတစ်ခုဆိုတာ ရှာတွေ့ခဲ့ပြီ။ :S]]></document>
+		<document><![CDATA[@BeerCartel ငါ့ရဲ့ နောက် growler fill အတွက် ဒါတွေထဲက တစ်ခုကို ယူဖို့ လိုအပ်နိုင်တယ်။]]></document>
+		<document><![CDATA[@fearthecowboy single IP မှာ HTTPS ပေးတာက ပုံမှန်ပဲ။ ဒါပေမယ့် SNI ရနိုင်တဲ့အခါ အခုတော့ ဒါကို older client တွေအတွက် fallback အနေနဲ့ အများစု လုပ်ဆောင်တယ်။]]></document>
+		<document><![CDATA[တကယ်တော့ DST စတဲ့အပတ်မှာပဲ dash button တွေနဲ့ ရုန်းကန်ပြီးနောက် ငါ့ကားနာရီကို ပြောင်းခဲ့တယ်။ @TeslaMotors က ဒါကို ဖြေရှင်းပြီးပြီလို့ ငါသေချာပေါက် မျှော်လင့်တယ်။]]></document>
+		<document><![CDATA[@developerjack @TripIt ငါ့အတွက် နှစ်စဉ် subscription ဈေးနှုန်းကို အလွယ်တကူ တရားမျှတစေတယ်။]]></document>
+	</documents>
+</author>
